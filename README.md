@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Victor Lopes 👋
 
-<!--
-**victorelds2004-arch/victorelds2004-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Systems Analysis and Development Student** at Centro Universitário Impacta  
+📍 Based in São Paulo, Brazil  
+🗣️ Fluent / Upper-Intermediate English Speaker
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔭 Currently studying Algorithms, Data Structures, and Software Engineering.
+- 💡 Interested in Back-end Development, Logic, and Problem Solving.
+- ⚡ Background in logistics and operations, bringing high attention to detail and process optimization.
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages & Concepts:** C / Java / Python / JavaScript (Lógica e Algoritmos)
+- **Version Control:** Git & GitHub
+- **Office & Tools:** Excel, Data Checking & Analysis
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [victor-estevao](https://www.linkedin.com/in/victor-estevao-81b9a5302)
+- **Email:** victorelds2004@gmail.com
